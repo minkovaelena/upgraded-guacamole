@@ -1,4 +1,4 @@
-// Utility functions for repos_upgraded-guacamole
+// Utility functions for repos_hist_upgraded-guacamole_20250705
 export function formatDate(date) {
     return new Date(date).toLocaleDateString();
 }
